@@ -1,0 +1,27 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+.venv
+venv
+ENV
+env
+
+# UV package manager files
+uv.lock
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
